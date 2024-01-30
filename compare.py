@@ -5,7 +5,7 @@ import pandas as pd
 with open('google-results.json', 'r') as google_file:
     google_results = json.load(google_file)
 
-with open('results.json', 'r') as bing_file:
+with open('bing_results.json', 'r') as bing_file:
     bing_results = json.load(bing_file)
 
 # List to store results for CSV

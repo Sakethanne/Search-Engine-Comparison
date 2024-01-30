@@ -1,0 +1,6 @@
+Comparing Bing (Browser assigned to me) and Google search results yields some interesting findings.
+The top 10 results of Bing and Google's results overlap by an average of 19.8%, suggesting a low level of similarity(Overlap of ~2 results). 
+On the other hand, the average Spearman coefficient is -9.825, indicating a significant disparity in the two search engines result rankings. 
+This negative coefficient suggests that there are significant differences in the ranking order of shared results. 
+Both the overlap percentage and Spearman coefficient measures point to a somewhat diverging performance for Bing compared to Google. 
+Finally, I think Bing has performed Worse when compared to Google
